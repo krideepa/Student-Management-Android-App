@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">JADAVPUR</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="About">About</string>
+    <string name="profile">Profile</string>
+    <string name="study_material">Study Material</string>
+    <string name="attendance">Attendance</string>
+    <string name="project">Project</string>
+    <string name="ques_bank">Ques Bank</string>
+    <string name="academic_record">Academic Record</string>
+    <string name="achievement">achievement</string>
+    <string name="training">Training</string>
+    <string name="students">Students</string>
+    <string name="teachers">Teachers</string>
+    <string name="departments">Departments</string>
+    <string name="admin">Admin</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">confirm password</string>
+</resources>
